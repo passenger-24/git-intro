@@ -1,13 +1,12 @@
-
+<<<<<<< HEAD
 feature-improvement
 Change from feature branch
 Change from main
 main
-parent of 999fe4e (Change message in feature-improvement)
+=======
+
 Message from main branch
 and
 Message from feature branch
 feature-greeting
-HEAD
-parent of 999fe4e (Change message in feature-improvement)
-parent of 999fe4e (Change message in feature-improvement)
+>>>>>>> parent of 999fe4e (Change message in feature-improvement)
